@@ -25,7 +25,7 @@ Insights:
 
 Unemployment rate is peak during the recession period
 
-1) Lesotho (LSO) is the highest country with unemployment rate of 30.40
+1)Lesotho (LSO) is the highest country with unemployment rate of 30.40
    
 2)Qatar (QAT) is in the least among all the countries with 0.57
 
