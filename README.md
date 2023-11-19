@@ -21,6 +21,23 @@ Dashboard:
 
 4.We have designed a map representation for our data but to make it even more understandable we turned our graph to a heat map.
 
+Insights:
+
+Unemployment rate is peak during the recession period
+
+1) Lesotho (LSO) is the highest country with unemployment rate of 30.40
+   
+2)Qatar (QAT) is in the least among all the countries with 0.57
+
+3)Globally the average unemployment rate is 8.01
+
+4)The COVID-19 global recession is unique in many aspects and has Drastic fall in the year of 2019-21
+
+5)Unemployment rate is also based on regional disparities
+
+6)The intensity of the heatmap is higher in the Europe continent. This means that the unemployment rate is higher in
+ this region
+
 Key Highlights:
 
 1.Contributed to the creation of sophisticated KPIs and dynamic, interactive powerbi interfaces.
